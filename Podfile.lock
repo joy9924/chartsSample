@@ -1,0 +1,26 @@
+PODS:
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - TinyConstraints (4.0.1)
+  - UICircularProgressRing (8.0.0)
+
+DEPENDENCIES:
+  - Charts
+  - TinyConstraints
+  - UICircularProgressRing
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - TinyConstraints
+    - UICircularProgressRing
+
+SPEC CHECKSUMS:
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  TinyConstraints: 8dd91295e56797648c7bc335dd20e1d91ec4c192
+  UICircularProgressRing: 19927375b2b21b5fa5fd9582f15ccdef9659da16
+
+PODFILE CHECKSUM: 87169f5e61b203b97f61e13902d5224684e69f00
+
+COCOAPODS: 1.10.1
